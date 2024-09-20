@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vladyslav
 - 👀 I’m an IOS Developer
-- 🌱 I’m a student at TU Bergakademie Freiberg
 - 📫 How to reach me: via Telegram - @dorik8, via Email - dorota.vlad@gmail.com
 
 <!---
